@@ -1,0 +1,140 @@
+2018-10-11 14:08:48,140 first_case.py--> setUp 20: INFO ----->this is chrome
+2018-10-11 14:08:48,147 register_handle.py--> send_user_email 20: INFO ----->输入的邮箱值是：11121@qq.com
+2018-10-11 14:08:48,150 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_email
+2018-10-11 14:08:48,258 register_handle.py--> send_user_name 20: INFO ----->输入的用户名是：ss22212
+2018-10-11 14:08:48,259 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_nickname
+2018-10-11 14:08:48,714 register_handle.py--> send_user_password 20: INFO ----->输入的密码是：111111
+2018-10-11 14:08:48,715 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_password
+2018-10-11 14:08:52,492 first_case.py--> setUp 20: INFO ----->this is chrome
+2018-10-11 14:08:52,494 register_handle.py--> send_user_email 20: INFO ----->输入的邮箱值是：1314@qq.com
+2018-10-11 14:08:52,495 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_email
+2018-10-11 14:08:52,566 register_handle.py--> send_user_name 20: INFO ----->输入的用户名是：user1111@qq.com
+2018-10-11 14:08:52,567 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_nickname
+2018-10-11 14:08:53,133 register_handle.py--> send_user_password 20: INFO ----->输入的密码是：111111
+2018-10-11 14:08:53,134 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_password
+2018-10-11 14:08:56,551 first_case.py--> setUp 20: INFO ----->this is chrome
+2018-10-11 14:08:56,554 register_handle.py--> send_user_email 20: INFO ----->输入的邮箱值是：11311@qq.com
+2018-10-11 14:08:56,556 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_email
+2018-10-11 14:08:56,634 register_handle.py--> send_user_name 20: INFO ----->输入的用户名是：ss23222
+2018-10-11 14:08:56,635 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_nickname
+2018-10-11 14:08:57,101 register_handle.py--> send_user_password 20: INFO ----->输入的密码是：111111
+2018-10-11 14:08:57,102 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_password
+2018-10-11 14:09:00,713 first_case.py--> setUp 20: INFO ----->this is chrome
+2018-10-11 14:09:00,716 register_handle.py--> send_user_email 20: INFO ----->输入的邮箱值是：12221@qq.com
+2018-10-11 14:09:00,718 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_email
+2018-10-11 14:09:00,831 register_handle.py--> send_user_name 20: INFO ----->输入的用户名是：2321
+2018-10-11 14:09:00,832 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_nickname
+2018-10-11 14:09:01,212 register_handle.py--> send_user_password 20: INFO ----->输入的密码是：111111
+2018-10-11 14:09:01,213 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_password
+2018-10-11 14:09:04,863 first_case.py--> setUp 20: INFO ----->this is chrome
+2018-10-11 14:09:04,870 register_handle.py--> send_user_email 20: INFO ----->输入的邮箱值是：12123@qq.com
+2018-10-11 14:09:04,873 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_email
+2018-10-11 14:09:04,975 register_handle.py--> send_user_name 20: INFO ----->输入的用户名是：t1
+2018-10-11 14:09:04,976 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_nickname
+2018-10-11 14:09:05,336 register_handle.py--> send_user_password 20: INFO ----->输入的密码是：111111
+2018-10-11 14:09:05,338 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_password
+2018-10-11 14:14:01,623 first_case.py--> setUp 20: INFO ----->this is chrome
+2018-10-11 14:14:01,628 register_handle.py--> send_user_email 20: INFO ----->输入的邮箱值是：1314@qq.com
+2018-10-11 14:14:01,630 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_email
+2018-10-11 14:14:01,736 register_handle.py--> send_user_name 20: INFO ----->输入的用户名是：user1111@qq.com
+2018-10-11 14:14:01,737 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_nickname
+2018-10-11 14:14:02,202 register_handle.py--> send_user_password 20: INFO ----->输入的密码是：111111
+2018-10-11 14:14:02,204 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_password
+2018-10-11 14:14:53,271 first_case.py--> setUp 20: INFO ----->this is chrome
+2018-10-11 14:14:53,275 register_handle.py--> send_user_email 20: INFO ----->输入的邮箱值是：1314@qq.com
+2018-10-11 14:14:53,277 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_email
+2018-10-11 14:14:53,410 register_handle.py--> send_user_name 20: INFO ----->输入的用户名是：user1111@qq.com
+2018-10-11 14:14:53,411 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_nickname
+2018-10-11 14:14:53,824 register_handle.py--> send_user_password 20: INFO ----->输入的密码是：111111
+2018-10-11 14:14:53,825 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_password
+2018-10-11 14:18:01,135 first_case.py--> setUp 20: INFO ----->this is chrome
+2018-10-11 14:18:01,139 register_handle.py--> send_user_email 20: INFO ----->输入的邮箱值是：1314@qq.com
+2018-10-11 14:18:01,140 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_email
+2018-10-11 14:18:01,233 register_handle.py--> send_user_name 20: INFO ----->输入的用户名是：user1111@qq.com
+2018-10-11 14:18:01,234 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_nickname
+2018-10-11 14:18:01,815 register_handle.py--> send_user_password 20: INFO ----->输入的密码是：111111
+2018-10-11 14:18:01,817 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_password
+2018-10-11 14:24:31,436 first_case.py--> setUp 20: INFO ----->this is chrome
+2018-10-11 14:24:31,441 register_handle.py--> send_user_email 20: INFO ----->输入的邮箱值是：1314@qq.com
+2018-10-11 14:24:31,442 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_email
+2018-10-11 14:24:31,553 register_handle.py--> send_user_name 20: INFO ----->输入的用户名是：user1111@qq.com
+2018-10-11 14:24:31,555 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_nickname
+2018-10-11 14:24:31,989 register_handle.py--> send_user_password 20: INFO ----->输入的密码是：111111
+2018-10-11 14:24:31,990 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_password
+2018-10-11 14:34:21,437 first_case.py--> setUp 20: INFO ----->this is chrome
+2018-10-11 14:34:21,440 register_handle.py--> send_user_email 20: INFO ----->输入的邮箱值是：1314@qq.com
+2018-10-11 14:34:21,442 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_email
+2018-10-11 14:34:21,560 register_handle.py--> send_user_name 20: INFO ----->输入的用户名是：user1111@qq.com
+2018-10-11 14:34:21,561 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_nickname
+2018-10-11 14:34:22,011 register_handle.py--> send_user_password 20: INFO ----->输入的密码是：111111
+2018-10-11 14:34:22,012 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_password
+2018-10-11 14:36:01,258 first_case.py--> setUp 20: INFO ----->this is chrome
+2018-10-11 14:36:01,266 register_handle.py--> send_user_email 20: INFO ----->输入的邮箱值是：1314@qq.com
+2018-10-11 14:36:01,270 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_email
+2018-10-11 14:36:01,394 register_handle.py--> send_user_name 20: INFO ----->输入的用户名是：user1111@qq.com
+2018-10-11 14:36:01,395 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_nickname
+2018-10-11 14:36:01,967 register_handle.py--> send_user_password 20: INFO ----->输入的密码是：111111
+2018-10-11 14:36:01,968 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_password
+2018-10-11 14:37:35,024 first_case.py--> setUp 20: INFO ----->this is chrome
+2018-10-11 14:37:35,031 register_handle.py--> send_user_email 20: INFO ----->输入的邮箱值是：1314@qq.com
+2018-10-11 14:37:35,033 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_email
+2018-10-11 14:37:35,125 register_handle.py--> send_user_name 20: INFO ----->输入的用户名是：user1111@qq.com
+2018-10-11 14:37:35,126 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_nickname
+2018-10-11 14:37:35,574 register_handle.py--> send_user_password 20: INFO ----->输入的密码是：111111
+2018-10-11 14:37:35,575 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_password
+2018-10-11 14:42:38,850 first_case.py--> setUp 20: INFO ----->this is chrome
+2018-10-11 14:42:38,855 register_handle.py--> send_user_email 20: INFO ----->输入的邮箱值是：1215@qq.com
+2018-10-11 14:42:38,856 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_email
+2018-10-11 14:42:38,969 register_handle.py--> send_user_name 20: INFO ----->输入的用户名是：user111111@qq.com
+2018-10-11 14:42:38,970 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_nickname
+2018-10-11 14:42:39,425 register_handle.py--> send_user_password 20: INFO ----->输入的密码是：11111111
+2018-10-11 14:42:39,426 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_password
+2018-10-11 14:44:34,149 first_case.py--> setUp 20: INFO ----->this is chrome
+2018-10-11 14:44:34,157 register_handle.py--> send_user_email 20: INFO ----->输入的邮箱值是：1314.com
+2018-10-11 14:44:34,160 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_email
+2018-10-11 14:44:34,246 register_handle.py--> send_user_name 20: INFO ----->输入的用户名是：user111111@qq.com
+2018-10-11 14:44:34,247 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_nickname
+2018-10-11 14:44:34,369 register_handle.py--> send_user_password 20: INFO ----->输入的密码是：11111111
+2018-10-11 14:44:34,370 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_password
+2018-10-11 14:45:26,934 first_case.py--> setUp 20: INFO ----->this is chrome
+2018-10-11 14:45:26,942 register_handle.py--> send_user_email 20: INFO ----->输入的邮箱值是：1314.com
+2018-10-11 14:45:26,944 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_email
+2018-10-11 14:45:27,050 register_handle.py--> send_user_name 20: INFO ----->输入的用户名是：user111111@qq.com
+2018-10-11 14:45:27,051 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_nickname
+2018-10-11 14:45:27,151 register_handle.py--> send_user_password 20: INFO ----->输入的密码是：11111111
+2018-10-11 14:45:27,152 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_password
+2018-10-11 14:47:03,418 first_case.py--> setUp 20: INFO ----->this is chrome
+2018-10-11 14:47:03,424 register_handle.py--> send_user_email 20: INFO ----->输入的邮箱值是：13145@qq.com
+2018-10-11 14:47:03,426 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_email
+2018-10-11 14:47:03,558 register_handle.py--> send_user_name 20: INFO ----->输入的用户名是：user111111@qq.com
+2018-10-11 14:47:03,559 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_nickname
+2018-10-11 14:47:03,973 register_handle.py--> send_user_password 20: INFO ----->输入的密码是：11111111
+2018-10-11 14:47:03,974 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_password
+2018-10-11 14:53:13,934 first_case.py--> setUp 20: INFO ----->this is chrome
+2018-10-11 14:53:13,942 register_handle.py--> send_user_email 20: INFO ----->输入的邮箱值是：13145@qq.com
+2018-10-11 14:53:13,944 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_email
+2018-10-11 14:53:14,067 register_handle.py--> send_user_name 20: INFO ----->输入的用户名是：user111111@qq.com
+2018-10-11 14:53:14,068 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_nickname
+2018-10-11 14:53:14,588 register_handle.py--> send_user_password 20: INFO ----->输入的密码是：11111111
+2018-10-11 14:53:14,589 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_password
+2018-10-11 14:55:09,039 first_case.py--> setUp 20: INFO ----->this is chrome
+2018-10-11 14:55:09,044 register_handle.py--> send_user_email 20: INFO ----->输入的邮箱值是：13145@qq.com
+2018-10-11 14:55:09,046 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_email
+2018-10-11 14:55:09,135 register_handle.py--> send_user_name 20: INFO ----->输入的用户名是：user111111@qq.com
+2018-10-11 14:55:09,136 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_nickname
+2018-10-11 14:55:09,573 register_handle.py--> send_user_password 20: INFO ----->输入的密码是：11111111
+2018-10-11 14:55:09,574 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_password
+2018-10-11 14:57:56,807 first_case.py--> setUp 20: INFO ----->this is chrome
+2018-10-11 14:57:56,815 register_handle.py--> send_user_email 20: INFO ----->输入的邮箱值是：13145@qq.com
+2018-10-11 14:57:56,817 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_email
+2018-10-11 14:57:56,989 register_handle.py--> send_user_name 20: INFO ----->输入的用户名是：user111111@qq.com
+2018-10-11 14:57:56,990 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_nickname
+2018-10-11 14:57:57,350 register_handle.py--> send_user_password 20: INFO ----->输入的密码是：11111111
+2018-10-11 14:57:57,351 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_password
+2018-10-11 14:59:06,283 first_case.py--> setUp 20: INFO ----->this is chrome
+2018-10-11 14:59:06,292 register_handle.py--> send_user_email 20: INFO ----->输入的邮箱值是：13145@qq.com
+2018-10-11 14:59:06,294 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_email
+2018-10-11 14:59:06,450 register_handle.py--> send_user_name 20: INFO ----->输入的用户名是：user111111@qq.com
+2018-10-11 14:59:06,451 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_nickname
+2018-10-11 14:59:06,809 register_handle.py--> send_user_password 20: INFO ----->输入的密码是：11111111
+2018-10-11 14:59:06,811 find_element.py--> get_element 20: INFO ----->定位方式:id--->定位值:register_password
